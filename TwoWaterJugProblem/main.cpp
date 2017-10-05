@@ -1,6 +1,11 @@
 /*
 	Water Jug Puzzle
 	https://en.wikipedia.org/wiki/Water_pouring_puzzle
+
+	In this demo, we have 2 jugs, one with capacity of 4 liters and another with 3 liters capacity. 
+	We want the larger jug to contain 2 liters. No measuring tools, just filling, pouring and emptying.
+	
+	Know more about the problem on wikipedia!
 */
 
 #include <stdio.h>
